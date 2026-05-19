@@ -1,0 +1,8 @@
+# Python >= 3.10
+pandas>=2.0
+numpy>=1.24
+openpyxl>=3.1        # read/write .xlsx
+pyfixest>=0.18       # TWFE via feols()
+scipy>=1.11          # chi2 distribution for Wald test
+matplotlib>=3.7      # figures
+python-docx>=1.1     # generate Final Paper.docx

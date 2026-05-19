@@ -1,0 +1,59 @@
+CountyName,cbsa_type,cbsa_title,metro_micro,central_outlying
+Alameda County,Metro-Core,"San Francisco-Oakland-Fremont, CA",Metropolitan Statistical Area,Central
+Butte County,Metro-Core,"Chico, CA",Metropolitan Statistical Area,Central
+El Dorado County,Metro-Core,"Sacramento-Roseville-Folsom, CA",Metropolitan Statistical Area,Central
+Fresno County,Metro-Core,"Fresno, CA",Metropolitan Statistical Area,Central
+Imperial County,Metro-Core,"El Centro, CA",Metropolitan Statistical Area,Central
+Kern County,Metro-Core,"Bakersfield-Delano, CA",Metropolitan Statistical Area,Central
+Kings County,Metro-Core,"Hanford-Corcoran, CA",Metropolitan Statistical Area,Central
+Los Angeles County,Metro-Core,"Los Angeles-Long Beach-Anaheim, CA",Metropolitan Statistical Area,Central
+Marin County,Metro-Core,"San Francisco-Oakland-Fremont, CA",Metropolitan Statistical Area,Central
+Merced County,Metro-Core,"Merced, CA",Metropolitan Statistical Area,Central
+Monterey County,Metro-Core,"Salinas, CA",Metropolitan Statistical Area,Central
+Napa County,Metro-Core,"Napa, CA",Metropolitan Statistical Area,Central
+Orange County,Metro-Core,"Los Angeles-Long Beach-Anaheim, CA",Metropolitan Statistical Area,Central
+Placer County,Metro-Core,"Sacramento-Roseville-Folsom, CA",Metropolitan Statistical Area,Central
+Riverside County,Metro-Core,"Riverside-San Bernardino-Ontario, CA",Metropolitan Statistical Area,Central
+Sacramento County,Metro-Core,"Sacramento-Roseville-Folsom, CA",Metropolitan Statistical Area,Central
+San Bernardino County,Metro-Core,"Riverside-San Bernardino-Ontario, CA",Metropolitan Statistical Area,Central
+San Diego County,Metro-Core,"San Diego-Chula Vista-Carlsbad, CA",Metropolitan Statistical Area,Central
+San Francisco County,Metro-Core,"San Francisco-Oakland-Fremont, CA",Metropolitan Statistical Area,Central
+San Joaquin County,Metro-Core,"Stockton-Lodi, CA",Metropolitan Statistical Area,Central
+San Luis Obispo County,Metro-Core,"San Luis Obispo-Paso Robles, CA",Metropolitan Statistical Area,Central
+San Mateo County,Metro-Core,"San Francisco-Oakland-Fremont, CA",Metropolitan Statistical Area,Central
+Santa Barbara County,Metro-Core,"Santa Maria-Santa Barbara, CA",Metropolitan Statistical Area,Central
+Santa Clara County,Metro-Core,"San Jose-Sunnyvale-Santa Clara, CA",Metropolitan Statistical Area,Central
+Santa Cruz County,Metro-Core,"Santa Cruz-Watsonville, CA",Metropolitan Statistical Area,Central
+Shasta County,Metro-Core,"Redding, CA",Metropolitan Statistical Area,Central
+Solano County,Metro-Core,"Vallejo, CA",Metropolitan Statistical Area,Central
+Sonoma County,Metro-Core,"Santa Rosa-Petaluma, CA",Metropolitan Statistical Area,Central
+Stanislaus County,Metro-Core,"Modesto, CA",Metropolitan Statistical Area,Central
+Sutter County,Metro-Core,"Yuba City, CA",Metropolitan Statistical Area,Central
+Tulare County,Metro-Core,"Visalia, CA",Metropolitan Statistical Area,Central
+Ventura County,Metro-Core,"Oxnard-Thousand Oaks-Ventura, CA",Metropolitan Statistical Area,Central
+Yuba County,Metro-Core,"Yuba City, CA",Metropolitan Statistical Area,Central
+Contra Costa County,Metro-Fringe,"San Francisco-Oakland-Fremont, CA",Metropolitan Statistical Area,Outlying
+Madera County,Metro-Fringe,"Fresno, CA",Metropolitan Statistical Area,Outlying
+San Benito County,Metro-Fringe,"San Jose-Sunnyvale-Santa Clara, CA",Metropolitan Statistical Area,Outlying
+Yolo County,Metro-Fringe,"Sacramento-Roseville-Folsom, CA",Metropolitan Statistical Area,Outlying
+Alpine County,Micropolitan,"Gardnerville Ranchos, NV-CA",Micropolitan Statistical Area,Outlying
+Del Norte County,Micropolitan,"Crescent City, CA",Micropolitan Statistical Area,Central
+Humboldt County,Micropolitan,"Eureka-Arcata, CA",Micropolitan Statistical Area,Central
+Inyo County,Micropolitan,"Bishop, CA",Micropolitan Statistical Area,Central
+Lake County,Micropolitan,"Clearlake, CA",Micropolitan Statistical Area,Central
+Lassen County,Micropolitan,"Susanville, CA",Micropolitan Statistical Area,Central
+Mendocino County,Micropolitan,"Ukiah, CA",Micropolitan Statistical Area,Central
+Nevada County,Micropolitan,"Truckee-Grass Valley, CA",Micropolitan Statistical Area,Central
+Tehama County,Micropolitan,"Red Bluff, CA",Micropolitan Statistical Area,Central
+Tuolumne County,Micropolitan,"Sonora, CA",Micropolitan Statistical Area,Central
+Amador County,Noncore,,Noncore,—
+Calaveras County,Noncore,,Noncore,—
+Colusa County,Noncore,,Noncore,—
+Glenn County,Noncore,,Noncore,—
+Mariposa County,Noncore,,Noncore,—
+Modoc County,Noncore,,Noncore,—
+Mono County,Noncore,,Noncore,—
+Plumas County,Noncore,,Noncore,—
+Sierra County,Noncore,,Noncore,—
+Siskiyou County,Noncore,,Noncore,—
+Trinity County,Noncore,,Noncore,—
