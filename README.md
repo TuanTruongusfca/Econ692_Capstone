@@ -38,8 +38,7 @@ Econ692_Capstone/
 ├── Output/
 │   ├── scripts/
 │   │   ├── 01_build_dataset.py         <- Step 1: build county_dataset.csv
-│   │   ├── 02_county_cbsa_analysis.py  <- Step 2: regressions + figures
-│   │   └── 03_make_paper.py            <- Step 3: generate Final Paper.docx
+│   │   └── 02_county_cbsa_analysis.py  <- Step 2: regressions + figures
 │   ├── data/
 │   │   └── county_dataset.csv          <- pre-built county panel (406 obs)
 │   ├── figures/                        <- all figures (pre-generated)
@@ -81,15 +80,6 @@ python Output/scripts/02_county_cbsa_analysis.py
 - Input:  `Output/data/county_dataset.csv`
 - Output: `Output/figures/fig[1-6]_*.png`, `fig_twfe_metro_vs_nonmetro.png`
           `Output/results/cbsa_*.csv`
-
-### 3. Generate the final paper
-
-```bash
-python Output/scripts/03_make_paper.py
-```
-
-- Input:  figures from `Output/figures/`
-- Output: `Paper/Final Paper.docx`
 
 ---
 
